@@ -12,6 +12,7 @@
 		45EC2AF61F2728AD00AAACE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45EC2AF41F2728AD00AAACE7 /* Main.storyboard */; };
 		45EC2AF81F2728AD00AAACE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45EC2AF71F2728AD00AAACE7 /* Assets.xcassets */; };
 		45EC2AFB1F2728AD00AAACE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45EC2AF91F2728AD00AAACE7 /* LaunchScreen.storyboard */; };
+		45EC2B051F2732EB00AAACE7 /* PurpleRain.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 45EC2B041F272DD100AAACE7 /* PurpleRain.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		45EC2AF71F2728AD00AAACE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45EC2AFA1F2728AD00AAACE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45EC2AFC1F2728AD00AAACE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45EC2B041F272DD100AAACE7 /* PurpleRain.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PurpleRain.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				45EC2AF01F2728AD00AAACE7 /* AppDelegate.swift */,
 				45EC2AF21F2728AD00AAACE7 /* ViewController.swift */,
 				45EC2AF41F2728AD00AAACE7 /* Main.storyboard */,
+				45EC2B041F272DD100AAACE7 /* PurpleRain.m4a */,
 				45EC2AF71F2728AD00AAACE7 /* Assets.xcassets */,
 				45EC2AF91F2728AD00AAACE7 /* LaunchScreen.storyboard */,
 				45EC2AFC1F2728AD00AAACE7 /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				45EC2AFB1F2728AD00AAACE7 /* LaunchScreen.storyboard in Resources */,
 				45EC2AF81F2728AD00AAACE7 /* Assets.xcassets in Resources */,
+				45EC2B051F2732EB00AAACE7 /* PurpleRain.m4a in Resources */,
 				45EC2AF61F2728AD00AAACE7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
